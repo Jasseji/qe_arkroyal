@@ -1,65 +1,65 @@
 This is the proposed CATOBAR Upgrade of the HMS Queen Elisabeth.
 https://news.usni.org/2023/06/08/u-k-considering-adding-catapults-arresting-gear-to-aircraft-carries
 
-Also Available To download here:
-https://flightsim.to/file/75128/hms-queen-elisabeth-catobar-conversion-project-ark-royal
-
 NOTE: This is a DEMO Version, please consider purchasing on SIMMARKET:
 https://secure.simmarket.com/ansmedia-hms-queen-elisabeth-carrier-catobar.phtml
 
-Features:
+## Features:
 
-High Quality Carrier Model with Transparent Bridge Windows, assortment of Animations and Static Objects
-Catapults and Arrestor Wires for CATOBAR Operations
-Easy on Performance
-Animated Spinning Radar Dishes
-Working Elevators (Control of the Elevators from TouchingCloud's Carrier Panel)
-Full Night Lighting
-Switchable Runway Lights Angled/Straight, Default Angled (Controls via "HELIPADS" Button in TouchingCloud Carrier Panel)
-Bridges have Interiors and Animated Crew
-Assortment of Landable Escort Ships (Requires Free Seafront Library from Marketplace) 
-Working ILS with Glideslope
-FLOLS Optical Landing System
-Currently only the forward Catapult is Fully Operational with Crew, Rear Catapult Requires TouchingCloud's Kinetic Assistant (Link Below)
-Animated Deck Crew
-ILS Features:
+* High Quality Carrier Model with Transparent Bridge Windows, assortment of Animations and Static Objects
+* Catapults and Arrestor Wires for CATOBAR Operations
+* Easy on Performance
+* Animated Spinning Radar Dishes
+* Working Elevators (Control of the Elevators from TouchingCloud's Carrier Panel)
+* Full Night Lighting
+* Switchable Runway Lights Angled/Straight, Default Angled (Controls via "HELIPADS" Button in TouchingCloud Carrier Panel)
+* Bridges have Interiors and Animated Crew
+* Assortment of Landable Escort Ships (Requires Free Seafront Library from Marketplace) 
+* Working ILS with Glideslope
+* FLOLS Optical Landing System
+* Currently only the forward Catapult is Fully Operational with Crew, Rear Catapult Requires TouchingCloud's Kinetic Assistant (Link Below)
+* Animated Deck Crew
+* WIP toolbar for carrier controls
 
-Location R102 used as Showcase, featuring 3x ILS Frequencies:
-109.05Mhz Angled Approach (Arresting Wires) - Course 350
-110.95Mhz Straight-In Approach (STOVL Rolling Landing) - Course 360
-111.95Mhz Offset Hover-In Approach - Course 360
-Dependencies:
+## ILS Features:
 
-Catapult and Arrestor Wires require TouchinCloud's Kuznetsov Aircraft Carrier Package: https://msfs.touching.cloud/mods/kuznetsov-carrier-group/
-Seafront Vessel Library (Free Download from the In-Game Marketplace)
-Static Locations:
+* Location R102 used as Showcase, featuring 3x ILS Frequencies:
+* 109.05Mhz Angled Approach (Arresting Wires) - Course 350
+* 110.95Mhz Straight-In Approach (STOVL Rolling Landing) - Course 360
+* 111.95Mhz Offset Hover-In Approach - Course 360
 
-* QE01 English Channel
-* QE02 Persian Gulf
-* QE03 RAF Valley 
-* QE04 Cayman Islands
-* HMS QE Moving English Channel
+## Dependencies:
 
-Paid Only:
-* QE05 Santa Barbara
-* QE06 Gdansk Bay
-* QE07 Falklands
-* QE08 New Zealand
+* Catapult and Arrestor Wires from TouchinCloud's Kuznetsov Aircraft Carrier Package supported but no longer required. (required only for collider change for hanger access): https://msfs.touching.cloud/mods/kuznetsov-carrier-group/
+* Seafront Vessel Library (Free Download from the In-Game Marketplace)
+
+## Free Static Locations:
+* R101 English Channel
+* R102 Persian Gulf
+* R103 RAF Valley
+* R104 Cayman Islands
+
+## Paid only Locations:
+* R105 Santa Barbara
+* R106 Gdansk Bay
+* R107 Falklands
+* R108 New Zealand
 * QE09 Tokyo
 * QE10 RNAD Coulport (docked)
 * HMS QE Moving English Channel
 * QE11 Venice
 * QE12 Perth
-
+* QE13 Bodo, Norway
+ 
 All Locations ILS: 109.950Mhz, UNICOM 122.800Mhz
 
 Additional Locations can be added on request, Animations are a work in Progress.
 
-Installation:
+## Installation:
 Unzip the contents into your Community Folder (when updating, it is best to delete the folder first)
 
-Please consider a small Donation: https://www.paypal.com/paypalme/ANSMediaDE?country.x=DE&locale.x=en_US
+Please consider a small Donation: [DONATE](https://paypal.me/ANSMediaDE?country.x=DE&locale.x=en_US)
 
-Support Discord: https://discord.com/invite/PDK2bGYwVP
-Support Email: jasseji@ans.media
+Support Discord: [ANSMedia](https://discord.gg/PDK2bGYwVP)
+
 YouTube Link: https://www.youtube.com/channel/UCFYet0eAk3unty42z_ZPrWw
