@@ -26,12 +26,6 @@ https://secure.simmarket.com/ansmedia-hms-queen-elisabeth-carrier-catobar.phtml
 * Location R102 used as Showcase, featuring 3x ILS Frequencies:
 * 109.05Mhz Angled Approach (Arresting Wires) - Course 350
 * 110.95Mhz Straight-In Approach (STOVL Rolling Landing) - Course 360
-* 111.95Mhz Offset Hover-In Approach - Course 360
-
-## Dependencies:
-
-* Catapult and Arrestor Wires from TouchinCloud's Kuznetsov Aircraft Carrier Package supported but no longer required. (required only for collider change for hanger access): https://msfs.touching.cloud/mods/kuznetsov-carrier-group/
-* Seafront Vessel Library (Free Download from the In-Game Marketplace)
 
 ## Free Static Locations:
 * QE01 of Marham 
@@ -53,7 +47,7 @@ https://secure.simmarket.com/ansmedia-hms-queen-elisabeth-carrier-catobar.phtml
 * QE14 Hawaii
 * QE15 Norfolk
 * QE16 Lossiemouth
- 
+* QE17 Iceland
 All Locations ILS: 109.950Mhz, UNICOM 122.800Mhz
 
 Additional Locations can be added on request, Animations are a work in Progress.
