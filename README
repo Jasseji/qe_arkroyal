@@ -1,17 +1,17 @@
-<h1>HMS Queen Elizabeth Carrier CATOBAR Conversion (Project Ark Royal)</h1>
+HMS Queen Elizabeth Carrier CATOBAR Conversion (Project Ark Royal)
 ##This is the proposed CATOBAR Upgrade of the HMS Queen Elisabeth.
 https://news.usni.org/2023/06/08/u-k-considering-adding-catapults-arresting-gear-to-aircraft-carries
 
-## NOTE: This is a DEMO Version also available on flightsim.to
+NOTE: This is a DEMO Version also available on flightsim.to
 https://flightsim.to/file/75128/hms-queen-elisabeth-catobar-conversion-project-ark-royal
 
 
-## Please consider purchasing on SIMMARKET:
+Please consider purchasing on SIMMARKET:
 https://secure.simmarket.com/ansmedia-hms-queen-elisabeth-carrier-catobar.phtml
 
 ### NOTE ON MSFS2024: The carrier and toolbar works but due to the Wave swaying bug (by Asobo) it is recommended to use it only in Calm Weather
 
-## Features:
+Features:
 
 High Quality Carrier Model with Transparent Bridge Windows, assortment of Animations and Static Objects
 Catapults and Arrestor Wires for CATOBAR Operations Via toolbar
@@ -31,7 +31,7 @@ Fallback "Fake Arrestor" Script via ANSMedia Toolbar App
 Toolbar Catapult and Arrestor App work with any Carrier
 Assortment of Landable Escort Ships: 2xType45 Destroyer, 2xType 31 Frigate, 1xTideclass 1xAstute
 
-## Features Exclusive to SimMarket Version:
+Features Exclusive to SimMarket Version:
 
 More Locations Added Constantly
 Fully Navigable Hangar (WIP)
@@ -39,13 +39,13 @@ Moving Carriers (WIP)
 Discord Role for Access to Daily DEV Builds
 Custom Animated Persona/Avatar on the Carrier by Request (Limited Space, first come, first Serve)
 
-## ILS Features:
+ILS Features:
 
 All Static Locations are featuring 3x ILS Frequencies:
 109.95Mhz Angled Approach (Arresting Wires) - Course 350
 110.95Mhz Straight-In Approach (STOVL Rolling Landing) - Course 36
 
-##Static Locations (Included in DEMO):
+Static Locations (Included in DEMO):
 
 R101 English Channel
 R102 Persian Gulf
@@ -53,7 +53,7 @@ R103 RAF Valley AB
 R104 Cayman Islands
 Full List of Current and Planned Locations Available on Wiki (LINK)
 
-## Paid Only Locations
+Paid Only Locations
 
 R105 Santa Barbara
 R106 Gdansk Bay
@@ -70,7 +70,7 @@ QE15 Norfolk
 QE16 Lossiemouth
 QE17 Iceland
 
-## Planned Features:
+Planned Features:
 
 PAID ONLY: Hangar is currently WIP. Models and textures are not final
 Animated arrestor wires
@@ -80,12 +80,12 @@ PAID ONLY: More Locations TBA as i go (Feel free to submit proposals on Discord 
 Missions
 PAID ONLY:Moving Ships (WIP)
 
-## Installation:
+Installation:
 Unzip the contents into your Community Folder (when updating, it is best to delete the folder first)
 
 Please consider a small Donation: DONATE
 
-## Support:
+Support:
 
 Discord: ANSMedia
 Documentation, Bug Tracking and WIP Roadmap: GitHub
