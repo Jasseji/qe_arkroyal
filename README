@@ -4,59 +4,85 @@ https://news.usni.org/2023/06/08/u-k-considering-adding-catapults-arresting-gear
 NOTE: This is a DEMO Version, please consider purchasing on SIMMARKET:
 https://secure.simmarket.com/ansmedia-hms-queen-elisabeth-carrier-catobar.phtml
 
-## Features:
+NOTE ON MSFS2024: The carrier and toolbar works but due to the Wave swaying bug (by Asobo) it is recommended to use it only in Calm Weather
 
-* High Quality Carrier Model with Transparent Bridge Windows, assortment of Animations and Static Objects
-* Catapults and Arrestor Wires for CATOBAR Operations
-* Easy on Performance
-* Animated Spinning Radar Dishes
-* Working Elevators (Control of the Elevators from TouchingCloud's Carrier Panel)
-* Full Night Lighting
-* Switchable Runway Lights Angled/Straight, Default Angled (Controls via "HELIPADS" Button in TouchingCloud Carrier Panel)
-* Bridges have Interiors and Animated Crew
-* Assortment of Landable Escort Ships (Requires Free Seafront Library from Marketplace) 
-* Working ILS with Glideslope
-* FLOLS Optical Landing System
-* Currently only the forward Catapult is Fully Operational with Crew, Rear Catapult Requires TouchingCloud's Kinetic Assistant (Link Below)
-* Animated Deck Crew
-* WIP toolbar for carrier controls, Pushback, arrestors and catapult
+Features:
 
-## ILS Features:
+High Quality Carrier Model with Transparent Bridge Windows, assortment of Animations and Static Objects
+Catapults and Arrestor Wires for CATOBAR Operations Via toolbar
+Animated Spinning Radar Dishes
+Living Deck with Animated Carrier Crew doing an Assortment of Tasks (WIP).
+Working Elevators
+Full Night Lighting
+Own Toolbar to Control Carrier Functions (ANSMedia Toolbar)
+Switchable Runway Lights Angled/Straight, Default Angled
+Bridges have Interiors and Animated Crew
+Working ILS's with Glideslope
+FLOLS Optical Landing System
+Animated Deck Crew
+Circling Merlin AEW (Currently without the Crowsnest Radar yet).
+Own In-Game Catapult and Arresting gear Scripts operated via ANSMedia Toolbar App
+Fallback "Fake Arrestor" Script via ANSMedia Toolbar App
+Toolbar Catapult and Arrestor App work with any Carrier
+Assortment of Landable Escort Ships: 2xType45 Destroyer, 2xType 31 Frigate, 1xTideclass 1xAstute
 
-* Location R102 used as Showcase, featuring 3x ILS Frequencies:
-* 109.05Mhz Angled Approach (Arresting Wires) - Course 350
-* 110.95Mhz Straight-In Approach (STOVL Rolling Landing) - Course 360
+Features Exclusive to SimMarket Version:
 
-## Free Static Locations:
-* QE01 of Marham 
-* QE02 Persian Gulf
-* QE03 RAF Valley
-* QE04 Cayman Islands
+More Locations Added Constantly
+Fully Navigable Hangar (WIP)
+Moving Carriers (WIP)
+Discord Role for Access to Daily DEV Builds
+Custom Animated Persona/Avatar on the Carrier by Request (Limited Space, first come, first Serve)
 
-## Paid only Locations:
-* QE05 Santa Barbara
-* QE06 Gdansk Bay
-* QE07 Falklands
-* QE08 New Zealand
-* QE09 Tokyo
-* QE10 RNAD Coulport (docked)
-* HMS QE Moving English Channel
-* QE11 Venice
-* QE12 Perth
-* QE13 Bodo, Norway
-* QE14 Hawaii
-* QE15 Norfolk
-* QE16 Lossiemouth
-* QE17 Iceland
-All Locations ILS: 109.950Mhz, UNICOM 122.800Mhz
+ILS Features:
 
-Additional Locations can be added on request, Animations are a work in Progress.
+All Static Locations are featuring 3x ILS Frequencies:
+109.95Mhz Angled Approach (Arresting Wires) - Course 350
+110.95Mhz Straight-In Approach (STOVL Rolling Landing) - Course 36
 
-## Installation:
+Static Locations (Included in DEMO):
+
+R101 English Channel
+R102 Persian Gulf
+R103 RAF Valley AB
+R104 Cayman Islands
+Full List of Current and Planned Locations Available on Wiki (LINK)
+
+Paid Only Locations
+
+R105 Santa Barbara
+R106 Gdansk Bay
+R107 Falklands
+R108 New Zealand
+QE09 Tokyo
+QE10 RNAD Coulport (docked)
+HMS QE Moving English Channel (Landmark)
+QE11 Venice
+QE12 Perth
+QE13 Bodo, Norway
+QE14 Hawaii
+QE15 Norfolk
+QE16 Lossiemouth
+QE17 Iceland
+
+Planned Features:
+
+PAID ONLY: Hangar is currently WIP. Models and textures are not final
+Animated arrestor wires
+Launch Crew
+PAID ONLY: Helicopter hangars for escort Frigates and Destroyers with aircraft parking locs to spawn in on.
+PAID ONLY: More Locations TBA as i go (Feel free to submit proposals on Discord or via support email)
+Missions
+PAID ONLY:Moving Ships (WIP)
+
+Installation:
 Unzip the contents into your Community Folder (when updating, it is best to delete the folder first)
 
-Please consider a small Donation: [DONATE](https://paypal.me/ANSMediaDE?country.x=DE&locale.x=en_US)
+Please consider a small Donation: DONATE
 
-Support Discord: [ANSMedia](https://discord.gg/PDK2bGYwVP)
+Support:
+
+Discord: ANSMedia
+Documentation, Bug Tracking and WIP Roadmap: GitHub
 
 YouTube Link: https://www.youtube.com/channel/UCFYet0eAk3unty42z_ZPrWw
